@@ -15,8 +15,6 @@ This isn’t just a journey. It’s a *forging of skill and mindset* — from me
 - Hunt down high-impact internships & freelance ops  
 - Grow into the pentester I once only trained others to become
 
-Let’s go. The sword is drawn — now comes the grind.**
+Let’s go. The sword is drawn — now comes the grind.
 
----
-
-#Cybersecurity #Pentesting #FromTrainerToPentester #90DayJourney #Infosec #HackThePlanet #DigitalCrusade**
+#Cybersecurity #Pentesting #FromTrainerToPentester #90DayJourney #Infosec #HackThePlanet #DigitalCrusade
