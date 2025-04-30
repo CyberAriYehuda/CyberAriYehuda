@@ -18,6 +18,8 @@ Today I explored the infamous OWASP Juice Shop — a deliberately vulnerable web
 - JWT.io
 - OWASP Juice Shop
 
+  NOTE:- TO test the website download it from linux (command:- npm install juice-shop) 
+
 
 
 ### 💡 Lessons Learned:
