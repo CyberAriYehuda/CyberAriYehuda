@@ -28,12 +28,4 @@ Understanding and exploiting SQL Injection vulnerabilities as part of OWASP Top 
 - SQLMap
 - Manual SQL payloads
 
----
 
-## 📸 Screenshots:
-
-> Insert your screenshots here (upload them to the repo and embed using relative path or markdown)
-
-```markdown
-![SQLi Lab Screenshot 1](./screenshots/sql-injection-1.png)
-![SQLi Lab Screenshot 2](./screenshots/sql-injection-2.png)
