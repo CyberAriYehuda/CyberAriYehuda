@@ -1,4 +1,4 @@
-Day 1 of 90 — Entering the Cyber Arena
+Day 1 of 30 — Entering the Cyber Arena
 
 Date: April 12, 2025  
 Theme:From Trainer to Digital Warrior
@@ -8,7 +8,7 @@ I now walk the path myself — stepping into the shadows, sharpening my blade, a
 
 This isn’t just a journey. It’s a *forging of skill and mindset* — from mentor to practitioner.
 
-🔥 Goals for the Next 90 Days:
+🔥 Goals for the Next 30 Days:
 - Solve hands-on cybersecurity labs & challenges  
 - Share war logs through blogs and GitHub  
 - Earn certs that back the battle scars  
