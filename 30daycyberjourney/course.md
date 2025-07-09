@@ -8,7 +8,7 @@ Status: Started – Foundations of Cybersecurity
 
 Introduction to Cybersecurity – Cisco Networking Academy
 Platform: SkillsForAll / NetAcad
-Status: Getting started
+Status: Completed
 
 TryHackMe – Pre-Security Path
 Platform: TryHackMe
